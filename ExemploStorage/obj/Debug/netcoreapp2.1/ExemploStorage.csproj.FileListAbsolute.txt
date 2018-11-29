@@ -1,0 +1,11 @@
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.1\ExemploStorage.deps.json
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.1\ExemploStorage.runtimeconfig.json
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.1\ExemploStorage.runtimeconfig.dev.json
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.1\ExemploStorage.dll
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.AssemblyInfo.cs
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\bin\Debug\netcoreapp2.1\ExemploStorage.pdb
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.dll
+C:\Users\logonrmlocal\source\repos\ExemploStorage\ExemploStorage\obj\Debug\netcoreapp2.1\ExemploStorage.pdb
